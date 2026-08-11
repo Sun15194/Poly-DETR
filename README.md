@@ -1,2 +1,2 @@
 # Poly-DETR
-Towards Instance Segmentation with Polygon Detection Transformer.
+Bridging Object Detection and Segmentation with Polygon Detection Transformers.
